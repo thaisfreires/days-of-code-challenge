@@ -1,1 +1,1 @@
-Python Challenge promoted by Women Who Code 
+Python challenge promoted by Women Who Code 
